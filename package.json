@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/danielnieto/electron-bundle/issues"
   },
-  "homepage": "https://github.com/danielnieto/electron-bundle#readme"
+  "homepage": "https://github.com/danielnieto/electron-bundle#readme",
+  "dependencies": {
+    "electron": "^1.4.8"
+  }
 }
