@@ -1,0 +1,19 @@
+{
+  "name": "electron-bundle",
+  "version": "1.0.0",
+  "description": "a project to test bundling an Electron app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielnieto/electron-bundle.git"
+  },
+  "author": "daniel nieto <danielnieto89@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielnieto/electron-bundle/issues"
+  },
+  "homepage": "https://github.com/danielnieto/electron-bundle#readme"
+}
