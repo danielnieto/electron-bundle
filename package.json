@@ -2,7 +2,7 @@
   "name": "electron-bundle",
   "version": "1.0.0",
   "description": "a project to test bundling an Electron app",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
